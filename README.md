@@ -6,3 +6,7 @@ This is a JAVA application compiled using Netbeans 8.0.2 IDE
 The solution to the "OTTO Path Finding problem" uses the FloydWarshall algorithm.
 I used the implementation of FloydWarshall from the following website
 http://algs4.cs.princeton.edu/44sp
+
+
+For the description of the OTTO-PathFinding problem, Please read
+https://github.com/Jamilirkhan/OTTO-PathFinding/blob/main/OTTO-PathFinding.pdf
