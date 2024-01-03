@@ -9,7 +9,7 @@ http://algs4.cs.princeton.edu/44sp
 
 
 For the description of the OTTO-PathFinding problem, Please read
-https://github.com/Jamilirkhan/OTTO-PathFinding/blob/main/OTTO-PathFinding.pdf
+https://github.com/Jamilirkhan/OTTO-PathFinding/blob/main/OTTO-description.pdf
 
 To run the program, open it in Netbeans, run the program, and then enter the input as prescribed.
 
